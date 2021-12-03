@@ -1,1 +1,2 @@
 basic
+Portrait mode in Display settings screen
